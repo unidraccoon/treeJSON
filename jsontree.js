@@ -10,12 +10,6 @@ async function getJSON(node) {
     node.data = obj.title;
 }
 
-var successCallback = function() {
-	obj.traverseBF(function(node) {
-	console.log(node.data);
-	});
-}
-
 function TreeNode(data) {
 	this.data = data;
 	this.children = [];
