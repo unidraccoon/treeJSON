@@ -13,9 +13,9 @@
 **Пример вывода:**
 
      *sunt aut facere repellat provident occaecati excepturi optio reprehenderit
-         *ea molestias quasi exercitationem repellat qui ipsa sit aut
-             *dolorem eum magni eos aperiam quia
-             *nesciunt quas odio
-         *qui est esse
-         *eum et est occaecati
-             *magnam facilis autem
+        *qui est esse
+        *ea molestias quasi exercitationem repellat qui ipsa sit aut
+        *eum et est occaecati
+           *nesciunt quas odio
+           *dolorem eum magni eos aperiam quia
+           *magnam facilis autem
