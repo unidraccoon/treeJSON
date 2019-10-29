@@ -66,11 +66,6 @@ class TreeNode{
 		}
 	}
 
-	// copy(){
-	// 	const obj = _.cloneDeep(tree);
-	// 	return obj
-	// }
-
 	printCommentTree(){
 		const obj = _.cloneDeep(this);
 		obj.change();
